@@ -18,6 +18,6 @@ public class CardDealer
         // setting the suti
         nineClubs.setSuit("diamonds");
         Card threeSpades = new Card("Spades", 3);
-        System.out.println(threeSpades.getSuit));
+        System.out.println(threeSpades.getSuit());
     }
 }
