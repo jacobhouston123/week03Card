@@ -19,5 +19,6 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         Card threeSpades = new Card("Spades", 3);
         System.out.println(threeSpades.getSuit());
+        Card kingDiamonds = new Card("Diamonds", 13);
     }
 }
