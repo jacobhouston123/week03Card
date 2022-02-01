@@ -13,7 +13,9 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
+        // instance of Card
         Card nineClubs = new Card("Clbs", 9);
+        // setting the suti
         nineClubs.setSuit("diamonds");
     }
 }
